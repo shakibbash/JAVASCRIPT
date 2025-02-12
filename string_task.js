@@ -57,6 +57,7 @@
 
 // slice(1) means It removes the first character and keeps the rest of the string. 
 //words[i][0] → This accesses the first character of the i-th word. 
+
 // let sentence='the boy and girl';
 // const words=sentence.split(' ');
 
@@ -65,3 +66,5 @@
 // }
 
 // console.log(words.join( ' '))
+
+
