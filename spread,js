@@ -1,0 +1,14 @@
+
+// spread operator=copy arrays to another array
+const friends=["sakina","jarina","hina"];
+
+// console.log(...friends);
+
+const Newfriends=["hero alom",...friends];
+
+// console.log(...Newfriends);
+
+
+// Array max
+const number=[11,14,445,87,76];
+console.log(Math.max(...number));
